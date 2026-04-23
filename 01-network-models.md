@@ -527,13 +527,3 @@ These are common baseline knowledge checks.
 - These models are most useful when diagnosing problems layer by layer.
 
 ---
-
-## Recommended File Naming for a GitHub Repo
-
-If this file is part of a multi-file networking reference repository, a clean naming pattern is:
-
-```text
-01-network-models.md
-```
-
-This keeps sections ordered and easy to browse.
