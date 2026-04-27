@@ -918,3 +918,11 @@ Common starting values you often see:
 | WPA | Wi-Fi Protected Access |
 
 ---
+
+## License
+
+This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to share and adapt the content, including for commercial purposes, as long as proper credit is given.
+
+See the [LICENSE](LICENSE) file for details.
